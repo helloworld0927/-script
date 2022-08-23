@@ -4,7 +4,9 @@
 // @name:en      Switch Traditional Chinese and Simplified Chinese
 // @namespace    helloworld0927
 // @author       helloworld0927
-// @version      1.14
+// @supportURL   https://github.com/helloworld0927/sc2tc-script
+// @homepageURL  https://github.com/helloworld0927/sc2tc-script
+// @version      1.15
 // @description        任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
 // @description:zh-TW  任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
 // @description:zh-CN  任意转换网页中的简体中文与繁体中文（默认繁体→简体）
