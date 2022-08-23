@@ -3,21 +3,21 @@
 // @name:zh-TW   繁簡自動切換
 // @name:en      Switch Traditional Chinese and Simplified Chinese
 // @namespace    helloworld0927
-// @a
-// @version      1.12
+// @author       helloworld0927
+// @version      1.14
 // @description        任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
 // @description:zh-TW  任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
 // @description:zh-CN  任意转换网页中的简体中文与繁体中文（默认繁体→简体）
 // @description:en     Just Switch Traditional Chinese and Simplified Chinese
 // @include      *
+// @exclude           *://*.github.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @grant        GM_notification
-// @contributionURL
-// @contributionAmount 1
 // @license MIT
 // ==/UserScript==
+
 (function () {
   "use strict";
   var auto = true; //是否自動切換至OS使用的默認語言
