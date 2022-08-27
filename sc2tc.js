@@ -7,9 +7,9 @@
 // @supportURL   https://github.com/helloworld0927/sc2tc-script
 // @homepageURL  https://github.com/helloworld0927/sc2tc-script
 // @version      1.16.1
-// @description        任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
-// @description:zh-TW  任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
-// @description:zh-CN  任意转换网页中的简体中文与繁体中文（默认繁体→简体）
+// @description  任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體）
+// @description:zh-TW  任意轉換網頁中的簡體中文與繁體中文（默認簡體→繁體)
+// @description:en sc2tc auto
 // @include      *
 // @exclude           *://*.github.com/*
 // @exclude           *://*.github.com/*
